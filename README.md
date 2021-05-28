@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @billyjoseph008
 - 👀 I’m interested in technology !
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on a Big Team
 - 📫 How to reach me billyjoseph008@hotmail.com
 
