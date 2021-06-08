@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @billyjoseph008
 - 👀 I’m interested in technology !
 - 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on a Big Team
+- 💞️ I’m looking to collaborate on a Big Teams
 - 📫 How to reach me billyjoseph008@hotmail.com
 
 <!---
