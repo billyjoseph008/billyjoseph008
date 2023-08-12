@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @billyjoseph008
 - 👀 I’m interested in technology !
-- 🌱 I’m currently studying Kotlin
+- 🌱 I’m currently studying TypeScript
 - 💞️ I’m looking to collaborate on Big Teams
 - 📫 How to reach me billyjoseph08@hotmail.com
 
